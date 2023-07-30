@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_vicky.mk
+    $(LOCAL_DIR)/lineage_vicky.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_vicky-user \
-    omni_vicky-userdebug \
-    omni_vicky-eng
+    lineage_vicky-user \
+    lineage_vicky-userdebug \
+    lineage_vicky-eng
